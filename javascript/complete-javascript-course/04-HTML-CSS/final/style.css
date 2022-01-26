@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: yellowgreen;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 75px;
+  border: rgb(50, 42, 165);
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.first {
+  color: brown;
+}
+
+#your-name {
+  background-color: rgb(50, 42, 165);
+  border: 5px solid rgb(253, 6, 6);
+  width: 400px;
+  padding: 25px;
+  margin-top: 50px;
+}
+
+.two {
+  color: brown;
+}
+
+#course-image {
+  border: 3px solid rgb(50, 42, 165);
+  width: 200px;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+a {
+  background-color: yellow;
+}
+
+#your-name h2 {
+  color: olivedrab;
+}
